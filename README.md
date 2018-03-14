@@ -1,4 +1,4 @@
-# 网易云音乐ACG歌曲评论爬虫 (Scrapy+MongoDB)
+# 网易云音乐ACG歌曲评论爬虫
 
 ## 持久化启动
 1、打开Mongodb服务器，如有权限验证请修改`MongoUtils.py`配置项
