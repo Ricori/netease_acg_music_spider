@@ -7,7 +7,7 @@ post_data = {
 }
 
 # 爬取几页歌单
-page_num = 10
+page_num = 1
 
 # 已经爬取几页歌单
-history_num = 9
+history_num = 0
